@@ -1,5 +1,5 @@
 # intelunnati_BETintelunnati_BETA
-Design and Implementation of Automated Teller Machine (FSM) Controller (BETA-Chatrana ,kavya)
+Design and Implementation of Automated Teller Machine (FSM) Controller (BETA-Charana ,kavya)
 
 Description
 This repository contains the design and implementation of an ATM machine controller using the Finite State Machine (FSM) modelling technique. The controller is implemented in VHDL and can be synthesized into a hardware description, which can be realized on an FPGA (Field-Programmable Gate Array).
